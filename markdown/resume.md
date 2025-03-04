@@ -1,100 +1,99 @@
-Johnny Coder
-============
+Florian Garcia
+===============
+
+>**Software Engineer | Technical Lead | Passionate Technologist**
+ 
+-----------------------    ------------------------------------------------------------------------
+15 Impasse Elvina Sivan     [garcia.florian.perso@gmail.com](mailto:garcia.florian.perso@gmail.com)
+33800 Bordeaux                                       [imflog.github.io/](https://imflog.github.io/)
+France                                                                              +33 698 233 170              
+-----------------------     -----------------------------------------------------------------------
+
+>Highly experienced Software Engineer with over 10 years in architecture, development, and automation.
+>Passionate about computer science, I thrive on tackling complex challenges and continuously improving systems.
+>I enjoy sharing my knowledge through articles and conference presentations.
+>My expertise spans microservice architectures, cloud infrastructure, and DevOps practices, making me a versatile and dedicated professional.
 
 ----
-
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-
-----
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Synapse Medicine -- Technical Lead:**
+*January 2023 – Present*
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+- Lead the creation of an API offer from the ground up spanning topics like Go usage, authentication, authorization, observability and documentation.
+- Streamlined CI/CD pipeline and automated versioning using conventional commit, introduced a monorepo for frontend developments, introduced Argo CD to simplify deployment processes.
+- Pushed toward technical excellence by introducing ADRs and architecture stewardship.
+- Worked on R&D projects around AI technologies.
+- Collaborating and mentoring feature teams to deliver high-quality software solutions.
 
-* First item
+**Betclic Group -- Technical Lead:**
+*November 2018 – January 2023*
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+- Designed and developed a betting meta-gaming system using an event-driven microservice architecture.
+- Automated CI/CD pipelines and cloud infrastructure provisioning using Infrastructure as Code.
+- Managed and monitored cloud infrastructure on AWS and Azure.
+- Led a team of up to 10 members, guiding them from project inception to feature delivery.
 
-**That Other Job You Had**
+**Privalia (Consultant) -- Core Java Architect:**
+*March 2018 – October 2018*
 
-Also with a short description.
+- Designed SSO architecture for backend applications.
+- Defined API and Kafka event contract management.
+- Standardized logging processes.
 
-Technical Experience
---------------------
+**Cdiscount -- Software Engineer:**
+*March 2016 – February 2018*
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+- Managed and monitored the website search engine.
+- Developed a microservice architecture around the search engine.
+- Introduced an event bus to improve system communication.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+**Multiposting Group -- Web Developer:**
+*February 2013 – July 2015*
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+- Developed job post generators.
+- Developed an UI to manage internal tools.
+- Six-month internship in San Francisco.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Skills
+------
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+* **Technical Leadership:** Project leadership and technical mentoring.
+* **Software Development:** Go, Kotlin, Java, Python, JavaScript, Rust.
+* **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, Gitlab CI, Github Action.
+* **Databases & Messaging:** SQL and NoSQL databases, Kafka, Redis.
+* **Continuous Learning:** Staying updated with the latest technologies and industry trends.
+* **Spoken languages:** French (native language), English (proficient)
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+---
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+Education
+---------
 
-[ref]: https://github.com/githubuser/superlongprojectname
+2024
+:   **AWS Certified Solution Architect**
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+2009 – 2015
+:   **Master in Computer Engineering** Université de Technologie de Compiègne 
 
-* Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+Activities & Achievements
+-------------------------
 
-* Random tidbit
+**Side Projects**
 
-* Other sort of impressive-sounding thing you did
+- Creator and maintainer of a [Gradle plugin for Confluent Schema Registry using Kafka](https://github.com/ImFlog/schema-registry-plugin).
+- Developed a [P2P chat application in Rust compiled to WASM](https://github.com/thomastoledo/prust).
+- Contributed to other open-source projects like Localstack, Terraform, Zipkin, and Spring Cloud.
+- Occasional blogger on [https://imflog.github.io/](https://imflog.github.io/).
 
-----
+**Conferences**
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+- Bdx.io 2024: [Bruno](https://www.youtube.com/watch?v=dEUN4f6YBHI).
+- Bordeaux JUG 2019: [Event-driven architectures](https://www.youtube.com/watch?v=M3JrFOokqbQ).
+- Devoxx FR 2019: [Microservice security](https://www.youtube.com/watch?v=v41jO5feEOk).
+- Devoxx FR 2018: [Kafka](https://www.youtube.com/watch?v=jrTznPb7Duo).
+- Devoxx 2017: Docker Swarm (hands-on lab) and [Zipkin](https://www.youtube.com/watch?v=RExl_EKQmPo).
+
