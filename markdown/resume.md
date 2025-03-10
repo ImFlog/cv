@@ -72,7 +72,7 @@ Skills
 Education
 ---------
 
-2024
+2020
 :   **AWS Certified Solution Architect**
 
 2009 – 2015
